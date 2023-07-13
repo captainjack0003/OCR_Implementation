@@ -5,7 +5,7 @@ This repo will give you basic implementation of google cloud vision api, microso
 ![image](https://github.com/captainjack0003/OCR_Implementation/assets/75877962/46358e0f-1d13-4829-a2a4-8bdcb02b5187)
 
 
-# Steps to use google cloud vision api
+# Steps to use Google Cloud Vision API
 
 To use the Google Cloud Vision API, you need to follow these steps:
 
@@ -43,7 +43,7 @@ To use the Google Cloud Vision API, you need to follow these steps:
    - Process and utilize the obtained data according to your application's needs.
 
 
-# Steps to use Microsoft Azure vision API
+# Steps to use Microsoft Azure Vision API
 
 To use Azure APIs, you can follow these general steps:
 
@@ -79,7 +79,7 @@ To use Azure APIs, you can follow these general steps:
    - Handle the response from the API, which will contain the results of your request.
    - Extract the desired information or perform further actions based on the API response.
 
-# how to use tesseract API
+# how to use Tesseract API
 https://github.com/tesseract-ocr/tessdoc
 
 
